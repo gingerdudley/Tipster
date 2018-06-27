@@ -15,6 +15,7 @@
 		4C06B51520E2D884000C4FD1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C06B51420E2D884000C4FD1 /* main.m */; };
 		4C06B51F20E2D884000C4FD1 /* tipsterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C06B51E20E2D884000C4FD1 /* tipsterTests.m */; };
 		4C06B52A20E2D884000C4FD1 /* tipsterUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C06B52920E2D884000C4FD1 /* tipsterUITests.m */; };
+		4C06B53920E2FF7B000C4FD1 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C06B53820E2FF7B000C4FD1 /* SettingsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		4C06B52520E2D884000C4FD1 /* tipsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C06B52920E2D884000C4FD1 /* tipsterUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tipsterUITests.m; sourceTree = "<group>"; };
 		4C06B52B20E2D884000C4FD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C06B53720E2FF7B000C4FD1 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		4C06B53820E2FF7B000C4FD1 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 				4C06B50820E2D882000C4FD1 /* ViewController.h */,
 				4C06B50920E2D882000C4FD1 /* ViewController.m */,
 				4C06B50B20E2D882000C4FD1 /* Main.storyboard */,
+				4C06B53720E2FF7B000C4FD1 /* SettingsViewController.h */,
+				4C06B53820E2FF7B000C4FD1 /* SettingsViewController.m */,
 				4C06B50E20E2D884000C4FD1 /* Assets.xcassets */,
 				4C06B51020E2D884000C4FD1 /* LaunchScreen.storyboard */,
 				4C06B51320E2D884000C4FD1 /* Info.plist */,
@@ -265,6 +270,7 @@
 				4C06B50A20E2D882000C4FD1 /* ViewController.m in Sources */,
 				4C06B51520E2D884000C4FD1 /* main.m in Sources */,
 				4C06B50720E2D882000C4FD1 /* AppDelegate.m in Sources */,
+				4C06B53920E2FF7B000C4FD1 /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,6 +440,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JQJ55SDWUK;
 				INFOPLIST_FILE = tipster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +457,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JQJ55SDWUK;
 				INFOPLIST_FILE = tipster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
