@@ -37,11 +37,10 @@ The following **additional** features are implemented:\
 Here's a walkthrough of implemented user stories:\
 \
 \pard\pardeftab720\sl280\partightenfactor0
-\cf2 <img src='http://i.imgur.com\cf2 \outl0\strokewidth0 /a/egDmAsN.gif\cf2 \outl0\strokewidth0 \strokec2 ' title='Tipster' width='' alt='Video Walkthrough' />\
+\cf2 <img src='https://imgur.com/a/egDmAsN.gif \outl0\strokewidth0 /a/egDmAsN.gif\cf2 \outl0\strokewidth0 \strokec2 ' title='Tipster' width='' alt='Video Walkthrough' />\
 \pard\pardeftab720\sl280\partightenfactor0
 \cf2 \
 \
-https://imgur.com/a/egDmAsN \
 \
 \
 GIF created with [LiceCap](http://www.cockos.com/licecap/).\
